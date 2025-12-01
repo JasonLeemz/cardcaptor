@@ -1,0 +1,8 @@
+contextvars
+requests>=2.31.0
+python-dotenv
+pyyaml
+jinja2
+pytest
+openai
+mcp>=1.0.0

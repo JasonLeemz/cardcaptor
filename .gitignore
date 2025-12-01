@@ -1,0 +1,7 @@
+.env
+.venv
+*.db
+.idea/
+pkg/log/__pycache__/
+__pycache__/
+*.log

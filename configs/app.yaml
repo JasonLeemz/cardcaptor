@@ -1,0 +1,13 @@
+app:
+  name: prompt-engine
+
+logs:
+  path: "logs/"
+
+db:
+  sqlite: "data/calender.db"
+
+prompt:
+  path: "data/prompts/templates/"
+  calendar: "calendar"
+  template_version: "default"
